@@ -30,7 +30,7 @@ Instagram(de ilustrador): [@sudomadeira](https://instagram.com/sudomadeira)
 4. Totalmente em português
 5. Adicionado funções de ADM no chat
 
-##**COMANDOS** :🎲:
+##COMANDOS :🎲:
 
 ###prefixo: '---'
 
