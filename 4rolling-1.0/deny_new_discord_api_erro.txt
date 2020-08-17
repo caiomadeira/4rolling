@@ -1,0 +1,10 @@
+Pode ser que de o famoso erro deny_new() porque a API do Discord tá de palhaçada ultimamente.
+Para isso faça o seguinte.
+
+exclua o discord e instale novamente
+
+
+se usa o pycharm
+
+va em file>settings> procure discord e/ou discord.py e remova e depois adicione de novo o discord.py
+ CUIDADO PARA NAO INSTALAR LIVRARIA NAO OFICIAL DO DISCORD
