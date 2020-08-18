@@ -36,24 +36,24 @@ Instagram(de ilustrador): [@sudomadeira](https://instagram.com/sudomadeira)
 
 
 - Administração
-	 help -> Mostra lista de comandos
-	 
-	 avatar  + @usuario  - mostra o avatar do usuario marcado   
-	 
-	 limpar  + número   - apaga um determinado numero de mensagens (o usuario escolhe)
-	 
-	 membros - mostra quantos membros tem no servidor
-	 
-	 versao - mostra a versão do bot
-	 
-	 sobre - sobre o bot 
+     - help -> Mostra lista de comandos
+ 
+     - avatar  + @usuario  - mostra o avatar do usuario marcado   
+
+     - limpar  + número   - apaga um determinado numero de mensagens (o usuario escolhe)
+
+     - membros - mostra quantos membros tem no servidor
+
+     - versao - mostra a versão do bot
+
+     - sobre - sobre o bot 
  
  - Dados
-	d10 + numero       
-	d12 + numero         
-	d20 + numero          
-	d6  + numero          
-	d8  + numero          
+      - d10 + numero       
+      - d12 + numero         
+      -	d20 + numero          
+      -	d6  + numero          
+      -	d8  + numero          
 	
 	
 - Sound
