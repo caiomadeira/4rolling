@@ -14,6 +14,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 import discord
 from discord.ext import commands, tasks
 from discord.utils import get
+import PyNaCl
 
 client = commands.Bot(command_prefix="--", case_insensitive=True)
 status = cycle(["RPG", "sujo!", "todos na masmorra!", "os dados!"])
@@ -108,7 +109,7 @@ async def versao(mensagem):
     id = client.get_guild(619011695762866197)
 
     embed_2 = discord.Embed(
-        description="Versão: 1.0.0 \n Release: 16/08/20",
+        description="Versão: 1.0.1 \n Release: 16/08/20",
         colour=discord.Colour.dark_magenta()
 
     )

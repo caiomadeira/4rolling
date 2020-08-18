@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3682b9b8-7692-437a-984d-26db18f84219" name="Default Changelist" comment="" />
+    <list default="true" id="3682b9b8-7692-437a-984d-26db18f84219" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/forrolling.py" beforeDir="false" afterPath="$PROJECT_DIR$/forrolling.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +16,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/forrolling.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1gBmanaeovk2semAojAWs1vubTA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,6 +118,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.forrolling (1)" />
       <item itemvalue="Python.forrolling" />
       <item itemvalue="Python.main" />
     </list>
