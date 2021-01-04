@@ -1,6 +1,6 @@
 # 4ROLLING BOT - V1.0
 
-4ROLLING é uma aplicação Brasileira desenvolvida por Caio Madeira para Discord que tem como intúito melhor a experiência do usuário em Role-Playing.
+4ROLLING é uma aplicação Brasileira para Discord que tem o intuito melhorar experiência do usuário em Role-Playing.
 Com diversos comandos e uma formatação agradável, o Bot torna-se muito útil para uso entre amigos em suas sessões online!
 
 >Totalmente em PT-BR
