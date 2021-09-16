@@ -1,0 +1,23 @@
+## Versão 2.0.0
+Release: ---
+
+- Finalizando cogs
+- Recriando sistema de audio
+- Recriando sistema de dados e adicionando d4
+- Criando Commons e Utils
+- Utilização de envs para evitar hardcoding]
+- Adicionando novas libs
+- Atualizando o python para a ultima verao
+
+
+
+## Versão: 1.0.1 (Patch Fix)
+Release: 17/08/20
+
+- Corrigindo textos
+
+
+## Versão: 1.0.0
+Release: 16/08/20
+
+- Lançamento oficial do 4 Rolling para o Discord
