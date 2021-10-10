@@ -37,6 +37,11 @@ class Dices(commands.Cog):
         result = await DicesCommons().roll(ctx, numero=numero, sides=8, name_of="D8")
         await ctx.send(embed=result)
 
+    @commands.command()
+    async def d100(self, ctx, *, numero=None):
+        result = await DicesCommons().roll(ctx, numero=numero, sides=100, name_of="D100")
+        await ctx.send(embed=result)
+
 
 def setup(client):
     client.add_cog(Dices(client))
