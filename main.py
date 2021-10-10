@@ -24,10 +24,10 @@ for filename in os.listdir("./cogs"):
         client.load_extension(f'cogs.{filename[:-3]}')
 
 
-def read_token():
-    with open("token.txt", "r") as f:
-        linhas = f.readlines()
-        return linhas[0].strip()
+# def read_token():
+#     with open("token.txt", "r") as f:
+#         linhas = f.readlines()
+#         return linhas[0].strip()
 
 
-client.run(read_token())
+client.run(os.getenv('TOKEN_OFICIAL_DISCORD'))
